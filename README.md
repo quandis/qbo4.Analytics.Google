@@ -26,3 +26,8 @@ private Clone(url)
 }
 ```
 
+A [sample spreadsheet](https://docs.google.com/spreadsheets/d/1f0J7bvcAjj21wK32CqfVJsr_jLHJiL-jIm9_Y9kXGiI/edit?usp=sharing) includes:
+
+- Comments in cells B5..B7
+- Names ranges for cells E21..E22
+
