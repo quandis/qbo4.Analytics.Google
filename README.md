@@ -1,7 +1,8 @@
 # qbo4.Analytics.Google
+
 Use Google Sheets to drive calculations for an API endpoint
 
-Implement the following method in .netstandard2.1 with cooresponding tests:
+Implement the following method in .netstandard2.1, leveraging the [Google Sheets API](https://developers.google.com/sheets/api/quickstart/dotnet) with cooresponding tests:
 
 ``` csharp
 public JObject Merge(JObject data, Uri googleSpreadsheetUrl) 
