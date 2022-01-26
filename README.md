@@ -1,8 +1,8 @@
 # qbo4.Analytics.Google Requirements
 
-Use Google Sheets to drive calculations for an API endpoint
+Use Google Sheets to drive calculations for an API endpoint.
 
-Implement the following psuedo-code as a class library in .netstandard2.1, leveraging the [Google Sheets API](https://developers.google.com/sheets/api/quickstart/dotnet) with cooresponding `xUnit` tests:
+Implement the following psuedo-code as a C# class library targeting `.netstandard2.1`, leveraging the [Google Sheets API](https://developers.google.com/sheets/api/quickstart/dotnet) with cooresponding `xUnit` tests:
 
 ``` csharp
 public Task<JObject> MergeAsync(JObject data, Uri googleSpreadsheetUrl) 
