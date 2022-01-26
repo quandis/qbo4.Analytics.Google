@@ -1,4 +1,4 @@
-# qbo4.Analytics.Google
+# qbo4.Analytics.Google Requirements
 
 Use Google Sheets to drive calculations for an API endpoint
 
